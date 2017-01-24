@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
+  "modid": "gdcw17.dbt.mod101",
+  "name": "MOD 101 Mod",
   "description": "Example placeholder mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["CurinDbT"],
+  "credits": "The peeps that do the stuff",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
